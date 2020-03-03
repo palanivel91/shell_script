@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Enter Your Name"
 read name
-echo "Welcome $name to DevOps"
+echo "Welcome $name to the DevOps"
